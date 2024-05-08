@@ -2,17 +2,17 @@ import {initializeApp} from 'firebase/app';
 import {getFirestore} from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyBwk-xM1Hcxm0G0G2J7xoOD4uLhFyA5rWU',
+  apiKey: '',
 
-  authDomain: 'pas-mobile-ad9ea.firebaseapp.com',
+  authDomain: '',
 
-  projectId: 'pas-mobile-ad9ea',
+  projectId: '',
 
-  storageBucket: 'pas-mobile-ad9ea.appspot.com',
+  storageBucket: '',
 
-  messagingSenderId: '521612334009',
+  messagingSenderId: '',
 
-  appId: '1:521612334009:web:3fb10cb28c66ffc0f89c68',
+  appId: '',
 };
 
 const app = initializeApp(firebaseConfig);
